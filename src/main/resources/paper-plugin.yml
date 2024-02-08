@@ -1,0 +1,4 @@
+name: ModifiedSayPluginCore
+version: '${project.version}'
+main: org.modifiedsayplugin.modifiedsayplugin.ModifiedSayPluginCore
+api-version: '1.20'
